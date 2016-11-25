@@ -1,0 +1,2 @@
+nov. 25, 2016 6:45:31 AM chatserver.EchoServer runServer
+INFO: Server started. Listening on: 9090, bound to: localhost
